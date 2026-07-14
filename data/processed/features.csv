@@ -1,0 +1,568 @@
+lexical_density,nominalization_density,clausal_complexity,mean_length_of_clause,passive_voice_ratio,label,level,filename
+0.4588,3.2941,1.0476,9.8837,0.1429,0,Elementary,Amazon-ele.txt
+0.4933,4.4444,2.0909,6.6176,0.2273,0,Elementary,Amsterdam-ele.txt
+0.4619,3.6017,1.1154,8.5818,0.0385,0,Elementary,Anita-ele.txt
+0.4969,2.2403,1.4348,8.7679,0.1304,0,Elementary,Arctic mapping-ele.txt
+0.3911,2.5761,1.7619,7.3621,0.1905,0,Elementary,Banksy-ele.txt
+0.4741,3.1088,1.8333,7.5686,0.1111,0,Elementary,Billionaires-ele.txt
+0.4629,2.118,0.8182,8.2625,0.0227,0,Elementary,Blackberry-ele.txt
+0.4507,4.932,1.5806,7.35,0.129,0,Elementary,Bolivia-ele.txt
+0.4869,2.864,1.5714,7.7593,0.0952,0,Elementary,Bonus pay-ele.txt
+0.4738,2.2727,0.9375,9.2258,0.0938,0,Elementary,Brazil-ele.txt
+0.4825,3.0801,1.913,7.2687,0.2609,0,Elementary,Cigarettes-ele.txt
+0.5252,0.969,0.931,9.2143,0.0345,0,Elementary,climate change -ele.txt
+0.4854,5.305,1.0526,9.6667,0.2105,0,Elementary,Coal to challenge oil-ele.txt
+0.4325,2.5794,1.913,7.5224,0.2174,0,Elementary,Copyright-ele.txt
+0.4419,2.6667,1.4138,7.5,0.069,0,Elementary,Crowdfunding-ele.txt
+0.4493,1.1824,1.6176,6.6517,0.0588,0,Elementary,Denmark-ele.txt
+0.4458,3.4056,0.7442,8.6133,0.0698,0,Elementary,Everest-ele.txt
+0.4834,3.6145,0.9524,8.0976,0.0,0,Elementary,Exercise-ele.txt
+0.4206,1.7167,0.8077,9.9149,0.0385,0,Elementary,Facebook deserted by millions of users-ele.txt
+0.5113,2.253,1.2727,7.6933,0.0606,0,Elementary,False memory-ele.txt
+0.4091,3.1348,1.1053,7.975,0.0263,0,Elementary,Ferguson-ele.txt
+0.4583,1.4173,1.381,6.35,0.0238,0,Elementary,Fitness-ele.txt
+0.4964,2.8777,1.4,8.6875,0.3,0,Elementary,Food shortages-ele.txt
+0.5081,1.034,1.0769,6.2685,0.1538,0,Elementary,Gangs-ele.txt
+0.4436,3.1863,1.16,7.5556,0.04,0,Elementary,Gorillas and oil-ele.txt
+0.4684,1.6878,1.3,6.8696,0.1333,0,Elementary,Greeks and drugs-ele.txt
+0.4381,1.9637,1.2632,7.6977,0.1316,0,Elementary,Hillsborough-ele.txt
+0.4845,2.6101,0.9118,9.4308,0.0294,0,Elementary,Insects-ele.txt
+0.5198,2.0979,1.9048,7.0328,0.1429,0,Elementary,Japan menu-ele.txt
+0.3994,1.6153,1.08,6.5481,0.12,0,Elementary,Japan-ele.txt
+0.4587,3.4321,0.9565,7.1222,0.0652,0,Elementary,Kashmir-ele.txt
+0.4421,3.8596,1.0667,9.1935,0.2667,0,Elementary,Kate and William-ele.txt
+0.4342,3.6184,1.1765,8.2162,0.3824,0,Elementary,Kenya-ele.txt
+0.4631,1.8462,1.2941,8.3333,0.0882,0,Elementary,Liberia-ele.txt
+0.4703,1.8265,1.1538,7.8214,0.1154,0,Elementary,Lie detector-ele.txt
+0.4446,2.1841,0.9189,9.0282,0.0541,0,Elementary,Life expectancy-ele.txt
+0.4331,2.9528,1.5556,7.3623,0.037,0,Elementary,Life on Mars-ele.txt
+0.4369,2.2523,0.5185,10.8293,0.1481,0,Elementary,Loterry-ele.txt
+0.3648,2.4575,1.2667,7.7794,0.0667,0,Elementary,Malala-ele.txt
+0.4791,2.5105,0.6364,8.8519,0.2727,0,Elementary,Meteorite-ele.txt
+0.4574,2.9787,1.5,7.8333,0.0417,0,Elementary,Midlife crisis-ele.txt
+0.4856,1.3055,1.6,7.3654,0.35,0,Elementary,Murderers beware-ele.txt
+0.391,1.6293,0.75,10.0204,0.2857,0,Elementary,Nelson Mandela-ele.txt
+0.4875,2.3033,1.1333,8.1406,0.2,0,Elementary,Nepal-ele.txt
+0.4467,1.5027,0.7917,8.5116,0.0,0,Elementary,Norwegian sun-ele.txt
+0.4309,2.8455,1.6207,6.4737,0.0345,0,Elementary,NSA 2-ele.txt
+0.4421,5.9649,1.88,7.9167,0.2,0,Elementary,NSA scandal-ele.txt
+0.4124,2.1368,1.68,6.9851,0.0,0,Elementary,Obama-ele.txt
+0.4945,4.059,1.4,9.0333,0.0,0,Elementary,Old age-ele.txt
+0.4274,3.527,2.0435,6.8857,0.087,0,Elementary,Organs-ele.txt
+0.3762,3.4056,1.25,7.1778,0.075,0,Elementary,Pope-ele.txt
+0.3934,0.8282,1.2258,7.0,0.129,0,Elementary,Prince Harry-ele.txt
+0.5046,3.5276,1.4615,6.7917,0.0513,0,Elementary,Rats-ele.txt
+0.4486,2.7143,1.25,8.642,0.1667,0,Elementary,Richard III-ele.txt
+0.4543,1.6224,0.9318,7.9765,0.0227,0,Elementary,Royal Baby-ele.txt
+0.4543,1.6224,0.9318,7.9765,0.0227,0,Elementary,Skydiver-ele.txt
+0.4609,1.1401,1.3784,6.9773,0.1081,0,Elementary,Spain-ele.txt
+0.4625,3.8741,1.9474,7.375,0.0526,0,Elementary,Starbucks-ele.txt
+0.5106,2.3404,0.9091,7.4603,0.0909,0,Elementary,Superbugs-ele.txt
+0.4306,3.2941,1.381,8.5,0.1429,0,Elementary,Swedish prisons-ele.txt
+0.4825,4.0351,1.0833,7.6,0.0833,0,Elementary,Syria-ele.txt
+0.5248,2.2901,0.6562,9.8868,0.0938,0,Elementary,Teff-ele.txt
+0.447,1.9749,1.0645,8.7031,0.129,0,Elementary,Thatcher-ele.txt
+0.4146,4.2714,1.1481,6.8621,0.037,0,Elementary,US shutdown-ele.txt
+0.4855,5.4545,1.1613,8.209,0.129,0,Elementary,Violence-ele.txt
+0.3955,3.0822,1.25,7.2099,0.0833,0,Elementary,WNL 101 year old bottle message-ele.txt
+0.4882,2.3622,1.6316,6.35,0.0,0,Elementary,WNL A good night sleep-ele.txt
+0.4159,1.9342,0.3438,12.0233,0.0938,0,Elementary,WNL Apple-ele.txt
+0.4969,2.2403,1.4348,8.7679,0.1304,0,Elementary,WNL Arctic Ramadan-ele.txt
+0.5377,4.2836,1.5641,6.77,0.0769,0,Elementary,WNL Are MOOCs the future-ele.txt
+0.4463,1.9774,1.0,7.375,0.0833,0,Elementary,WNL are you a bad boyfriend-ele.txt
+0.4629,4.4088,2.1304,6.9306,0.2609,0,Elementary,WNL Bangladesh factory owners-ele.txt
+0.4742,0.5155,1.4615,6.0625,0.0385,0,Elementary,WNL Bangladeshi organization-ele.txt
+0.4481,3.5608,2.0,6.6078,0.0588,0,Elementary,WNL Barack Obama-ele.txt
+0.4576,2.5424,1.4444,7.1515,0.0,0,Elementary,WNL Basic phone logs-ele.txt
+0.4649,2.7439,1.0263,8.5195,0.1316,0,Elementary,WNL Billionaires-ele.txt
+0.4319,1.0084,1.1667,6.5385,0.0952,0,Elementary,WNL Black Friday-ele.txt
+0.5116,2.8958,1.8519,6.7273,0.037,0,Elementary,WNL Bogus Allergy-ele.txt
+0.4646,3.1674,1.0238,7.8,0.0238,0,Elementary,WNL Bright Future-ele.txt
+0.489,2.0305,1.4688,7.481,0.0312,0,Elementary,WNL Brown bears-ele.txt
+0.4561,1.3158,1.3261,6.3925,0.0652,0,Elementary,WNL Calais Migrants-ele.txt
+0.51,1.4572,1.0541,7.2237,0.0541,0,Elementary,WNL Can the US-ele.txt
+0.4301,1.8382,0.878,7.0649,0.0732,0,Elementary,WNL Canadian Pair-ele.txt
+0.4451,1.632,1.359,7.3261,0.1026,0,Elementary,WNL Castaway-ele.txt
+0.4233,2.7907,0.8333,7.8182,0.0667,0,Elementary,WNL Changing India-ele.txt
+0.4384,1.4614,1.3,6.942,0.1333,0,Elementary,WNL Coloring Books-ele.txt
+0.4635,1.0076,0.96,8.102,0.2,0,Elementary,WNL Criminal Links-ele.txt
+0.4725,2.8381,1.0,8.8088,0.1471,0,Elementary,WNL Cuba-ele.txt
+0.3651,1.9084,0.7234,9.7037,0.1489,0,Elementary,WNL David Bowie-ele.txt
+0.411,1.4235,1.3636,7.2051,0.1212,0,Elementary,WNL David Mitchell-ele.txt
+0.4757,2.973,0.913,8.4091,0.0435,0,Elementary,WNL Drowning in rubbish-ele.txt
+0.5244,3.4843,1.0323,9.1111,0.0323,0,Elementary,WNL EU Pollution-ele.txt
+0.4295,1.7054,0.98,6.5152,0.04,0,Elementary,WNL Experience-ele.txt
+0.5237,3.0361,1.4138,7.5286,0.0,0,Elementary,WNL Extinction-ele.txt
+0.4428,1.634,1.3571,6.1818,0.0476,0,Elementary,WNL Extreme heat-ele.txt
+0.3876,3.5398,1.2143,9.1129,0.3214,0,Elementary,WNL FIFA-ele.txt
+0.475,1.8209,2.0,6.8646,0.0,0,Elementary,WNL Fifth of young adults-ele.txt
+0.4206,2.507,1.087,7.4792,0.0652,0,Elementary,WNL First female coach-ele.txt
+0.4642,2.9014,1.0333,8.4754,0.1333,0,Elementary,WNL First high resolution images-ele.txt
+0.5156,2.3385,1.3279,6.3239,0.0492,0,Elementary,WNL Five jobs-ele.txt
+0.4117,3.4608,1.0968,8.4462,0.1613,0,Elementary,WNL Four new elements-ele.txt
+0.5341,4.2614,1.2857,7.3333,0.1905,0,Elementary,WNL Glastonbury-ele.txt
+0.5075,1.6639,0.9,10.5439,0.0,0,Elementary,WNL Goodbye fish and chips-ele.txt
+0.4926,2.4712,1.8182,6.5269,0.0909,0,Elementary,WNL Google boss-ele.txt
+0.4715,1.2891,1.4333,7.4384,0.1,0,Elementary,WNL Google car-ele.txt
+0.4,2.5,0.7838,8.4848,0.1081,0,Elementary,WNL How downtown Abbey-ele.txt
+0.4706,3.2086,1.1724,8.9048,0.0345,0,Elementary,WNL I confused my numbers-ele.txt
+0.4232,4.2662,1.0571,8.1389,0.0,0,Elementary,WNL Icebucket challenge-ele.txt
+0.389,2.1142,1.32,8.1552,0.36,0,Elementary,WNL Icelandic names-ele.txt
+0.4711,1.7105,0.7885,8.172,0.1346,0,Elementary,WNL In flight-ele.txt
+0.495,2.1521,1.025,8.6049,0.0,0,Elementary,WNL India's rich-ele.txt
+0.4206,1.8692,1.1562,7.7536,0.0625,0,Elementary,WNL Inky the octopus-ele.txt
+0.4337,0.4819,1.1304,8.4694,0.1304,0,Elementary,WNL Inventions-ele.txt
+0.5094,3.2864,0.9615,8.3529,0.0769,0,Elementary,WNL Japan-ele.txt
+0.3511,3.7778,0.64,10.9756,0.12,0,Elementary,WNL JMW Turner-ele.txt
+0.4344,1.5656,1.5417,8.377,0.0833,0,Elementary,WNL John Lewis-ele.txt
+0.4525,2.8283,1.5517,6.6892,0.0345,0,Elementary,WNL Kate Bush-ele.txt
+0.4946,3.0722,1.2308,7.4828,0.0769,0,Elementary,WNL Kiruna-ele.txt
+0.4,1.1111,1.2143,8.7097,0.0714,0,Elementary,WNL Lego movie-ele.txt
+0.5019,5.2326,1.4815,7.7015,0.0,0,Elementary,WNL Loneliness-ele.txt
+0.5084,6.0038,1.7812,5.9888,0.0938,0,Elementary,WNL Love hormonw-ele.txt
+0.4501,1.0152,0.7297,9.2344,0.027,0,Elementary,WNL Making a killing-ele.txt
+0.4339,2.6101,2.0357,7.2118,0.25,0,Elementary,WNL Man falls-ele.txt
+0.3936,3.4574,1.6364,6.4828,0.0909,0,Elementary,WNL Mars-ele.txt
+0.4547,2.1875,1.525,6.3366,0.025,0,Elementary,WNL Men in black-ele.txt
+0.5061,4.1565,0.9286,7.5741,0.0714,0,Elementary,WNL Mirrors-ele.txt
+0.4515,1.8557,1.1481,8.3621,0.1481,0,Elementary,WNL Morocco-ele.txt
+0.4618,3.5032,0.7059,10.8276,0.0,0,Elementary,WNL Music-ele.txt
+0.4651,2.3774,1.3714,8.1084,0.0857,0,Elementary,WNL Mystery Shopper-ele.txt
+0.4731,3.481,1.6316,6.32,0.0,0,Elementary,WNL NASA Astronaut-ele.txt
+0.4991,2.2453,1.0286,8.1549,0.1714,0,Elementary,WNL Neuroscientists-ele.txt
+0.4877,4.2553,1.7179,5.7642,0.0513,0,Elementary,WNL New Orleans-ele.txt
+0.531,2.965,0.7241,7.42,0.1379,0,Elementary,WNL Nigerian low tech-ele.txt
+0.4923,3.5011,1.52,7.254,0.08,0,Elementary,WNL Noise pollution -ele.txt
+0.4513,2.7833,1.1176,6.9861,0.0,0,Elementary,WNL Novel way-ele.txt
+0.5008,2.2971,0.8571,7.1758,0.0408,0,Elementary,WNL On the trail-ele.txt
+0.5413,2.2847,1.303,7.4868,0.0303,0,Elementary,WNL Organic Food-ele.txt
+0.4102,3.5593,0.7949,8.4286,0.0769,0,Elementary,WNL Pacific Islanders-ele.txt
+0.4424,1.0169,1.3077,6.5556,0.0513,0,Elementary,WNL Pizza chain-ele.txt
+0.5113,2.7068,1.9,7.6437,0.1,0,Elementary,WNL Planet-ele.txt
+0.4946,2.7565,1.5312,8.0617,0.0625,0,Elementary,WNL Poverty-ele.txt
+0.4485,0.6865,1.375,5.75,0.1562,0,Elementary,WNL Revolution-ele.txt
+0.4627,2.5501,0.8056,8.4462,0.1111,0,Elementary,WNL Rwanda-ele.txt
+0.4922,3.5477,1.75,5.8571,0.0,0,Elementary,WNL Satnav-ele.txt
+0.3906,2.3529,1.4615,6.6406,0.1154,0,Elementary,WNL Scarlett-ele.txt
+0.4906,4.4597,2.2174,7.8784,0.1739,0,Elementary,WNL School Sports-ele.txt
+0.4855,2.2831,1.5278,7.2198,0.0556,0,Elementary,WNL School-ele.txt
+0.477,2.2044,1.3077,8.3167,0.0385,0,Elementary,WNL Scientist-ele.txt
+0.3944,2.6178,1.25,7.9583,0.0312,0,Elementary,WNL Scottish referendum-ele.txt
+0.4356,2.7228,1.7619,6.9655,0.0,0,Elementary,WNL SeaWorld-ele.txt
+0.3815,1.5198,0.9412,9.9697,0.2647,0,Elementary,WNL Shakespeare-ele.txt
+0.4539,2.933,2.1667,7.5368,0.1,0,Elementary,WNL shark-ele.txt
+0.5447,0.5155,1.5938,7.012,0.0312,0,Elementary,WNL Ships noise-ele.txt
+0.4772,1.711,1.5625,6.4146,0.1875,0,Elementary,WNL Shocking-ele.txt
+0.4685,2.8391,1.6216,6.5361,0.0,0,Elementary,WNL Shops-ele.txt
+0.5277,4.1551,1.1463,8.2045,0.0244,0,Elementary,WNL six well paid jobs-ele.txt
+0.531,3.0992,1.3077,8.0667,0.1923,0,Elementary,WNL Six year olds-ele.txt
+0.4377,2.5445,1.0,7.2778,0.037,0,Elementary,WNL Spain Robin Hood-ele.txt
+0.4731,1.6012,0.9111,7.9884,0.0222,0,Elementary,WNL Spain Wetlands-ele.txt
+0.4,1.7241,0.9714,8.4058,0.0857,0,Elementary,WNL Star Wars-ele.txt
+0.5492,5.8722,1.5769,8.6418,0.0385,0,Elementary,WNL Still no flying cars-ele.txt
+0.4954,1.8265,1.4348,7.8214,0.1739,0,Elementary,WNL Swarthy caveman-ele.txt
+0.3914,1.8767,1.6087,6.2167,0.1739,0,Elementary,WNL Switched Babies-ele.txt
+0.5013,3.7594,0.8077,8.4894,0.0385,0,Elementary,WNL Ten ideas-ele.txt
+0.4241,2.5316,1.1034,7.7705,0.0,0,Elementary,WNL The age of music-ele.txt
+0.4969,2.1807,1.3243,7.4651,0.0811,0,Elementary,WNL The Greek island-ele.txt
+0.4508,2.2541,0.4634,8.1333,0.0976,0,Elementary,WNL The last-ele.txt
+0.4547,2.8523,1.3684,6.6222,0.0789,0,Elementary,WNL The lightweight-ele.txt
+0.5135,2.1544,1.5882,6.3295,0.0,0,Elementary,WNL The millenials-ele.txt
+0.5196,2.1352,1.6176,6.3146,0.0,0,Elementary,WNL Tributes-ele.txt
+0.4159,2.0249,0.8421,9.1714,0.1316,0,Elementary,WNL Use of e-cig-ele.txt
+0.4462,5.914,1.0909,8.087,0.0,0,Elementary,WNL Vienna-ele.txt
+0.4732,2.6016,1.6471,6.8333,0.2353,0,Elementary,WNL Waiters-ele.txt
+0.4551,1.6743,1.3333,7.8214,0.0278,0,Elementary,WNL Ways Facebook changed-ele.txt
+0.4674,1.1401,1.3438,8.1867,0.0938,0,Elementary,WNL We must-ele.txt
+0.4171,1.4778,1.2857,6.3438,0.0714,0,Elementary,WNL Wealth therapy-ele.txt
+0.4328,3.4003,1.0227,7.2697,0.0455,0,Elementary,WNL What does Apple-ele.txt
+0.4644,3.3981,0.775,8.7042,0.05,0,Elementary,WNL What is world's-ele.txt
+0.4606,1.6598,1.0312,7.4154,0.0625,0,Elementary,WNL What's the secret-ele.txt
+0.425,3.1746,1.697,6.3708,0.1515,0,Elementary,WNL Who can stop Trump-ele.txt
+0.3777,2.305,1.0,7.8333,0.1667,0,Elementary,WNL Who invented-ele.txt
+0.4525,1.711,1.7857,6.7436,0.0,0,Elementary,WNL Why are people so wrong-ele.txt
+0.5537,1.8692,1.72,6.2941,0.0,0,Elementary,WNL Why we should -ele.txt
+0.4806,2.0333,1.3125,7.3108,0.0312,0,Elementary,WNL Why you should start work at 10-ele.txt
+0.4912,2.1201,1.8824,5.7755,0.0882,0,Elementary,WNL Will drones-ele.txt
+0.4466,1.4563,1.1282,7.4458,0.0256,0,Elementary,WNL Winter-ele.txt
+0.4572,2.4883,0.925,8.3506,0.075,0,Elementary,WNL World Cup-ele.txt
+0.4523,0.939,1.25,7.8889,0.0556,0,Elementary,WNL Young Americans-ele.txt
+0.4832,2.1008,1.3478,8.8148,0.1304,0,Elementary,Zero Hours-ele.txt
+0.4695,4.0076,1.2857,10.9167,0.2857,1,Intermediate,Amazon-int.txt
+0.4901,4.1758,1.8571,7.5833,0.3333,1,Intermediate,Amsterdam-int.txt
+0.48,3.8571,1.3611,8.2353,0.0556,1,Intermediate,Anita-int.txt
+0.4769,2.735,1.9545,9.0,0.1818,1,Intermediate,Arctic mapping-int.txt
+0.4057,3.005,2.3333,8.5571,0.3333,1,Intermediate,Banksy-int.txt
+0.4839,3.6145,1.8696,7.5455,0.1739,1,Intermediate,Billionaires-int.txt
+0.4532,2.8777,0.92,8.6875,0.1,1,Intermediate,Blackberry-int.txt
+0.4396,5.5313,1.5152,8.2771,0.2424,1,Intermediate,Bolivia-int.txt
+0.5154,3.6538,1.3333,9.2857,0.1667,1,Intermediate,Bonus pay-int.txt
+0.4922,2.6874,1.0811,9.1818,0.1622,1,Intermediate,Brazil-int.txt
+0.4869,3.1046,2.6364,7.65,0.2273,1,Intermediate,Cigarettes-int.txt
+0.5473,0.9091,1.25,8.7302,0.1786,1,Intermediate,climate change -int.txt
+0.5046,6.2212,1.2353,11.4211,0.2941,1,Intermediate,Coal to challenge oil-int.txt
+0.4602,3.1142,2.2174,7.8108,0.2609,1,Intermediate,Copyright-int.txt
+0.4507,3.2887,1.8108,7.8942,0.1892,1,Intermediate,Crowdfunding-int.txt
+0.4524,1.5601,1.8182,6.8925,0.1212,1,Intermediate,Denmark-int.txt
+0.4662,4.0393,0.9423,9.0693,0.1538,1,Intermediate,Everest-int.txt
+0.4844,3.1169,1.35,8.1915,0.025,1,Intermediate,Exercise-int.txt
+0.4608,2.5597,1.0333,9.6066,0.0667,1,Intermediate,Facebook deserted by millions of users-int.txt
+0.5259,2.3316,1.5946,8.0417,0.2973,1,Intermediate,False memory-int.txt
+0.4166,4.2038,1.3077,8.7222,0.1282,1,Intermediate,Ferguson-int.txt
+0.4682,1.6575,1.4545,6.7037,0.0682,1,Intermediate,Fitness-int.txt
+0.5182,3.8182,1.6667,8.5938,0.2917,1,Intermediate,Food shortages-int.txt
+0.4879,1.5738,1.1406,6.0292,0.2188,1,Intermediate,Gangs-int.txt
+0.4754,5.082,1.1818,8.4722,0.1515,1,Intermediate,Gorillas and oil-int.txt
+0.4746,2.8169,1.3846,7.6344,0.1026,1,Intermediate,Greeks and drugs-int.txt
+0.4359,2.3448,1.7353,7.7957,0.2941,1,Intermediate,Hillsborough-int.txt
+0.4892,2.7338,1.1818,9.6528,0.2121,1,Intermediate,Insects-int.txt
+0.5237,3.2626,2.32,7.3855,0.16,1,Intermediate,Japan menu-int.txt
+0.4116,2.0645,1.0,6.7982,0.1228,1,Intermediate,Japan-int.txt
+0.4586,3.4063,0.9815,7.6822,0.0926,1,Intermediate,Kashmir-int.txt
+0.4615,3.4483,1.1667,9.6667,0.2222,1,Intermediate,Kate and William-int.txt
+0.453,3.4732,1.6562,8.1294,0.3125,1,Intermediate,Kenya-int.txt
+0.4575,2.6699,1.3571,8.3232,0.1429,1,Intermediate,Liberia-int.txt
+0.458,3.4351,1.3659,8.1031,0.1951,1,Intermediate,Lie detector-int.txt
+0.4375,3.25,1.175,9.1954,0.15,1,Intermediate,Life expectancy-int.txt
+0.4473,4.1221,1.8667,7.6163,0.2,1,Intermediate,Life on Mars-int.txt
+0.4634,2.439,0.7143,11.1042,0.1786,1,Intermediate,Loterry-int.txt
+0.406,3.2637,1.4615,7.9792,0.1282,1,Intermediate,Malala-int.txt
+0.4741,2.8257,0.8286,9.9531,0.3143,1,Intermediate,Meteorite-int.txt
+0.4533,4.0564,1.2963,9.1452,0.0741,1,Intermediate,Midlife crisis-int.txt
+0.4924,2.8626,1.5769,7.8209,0.1923,1,Intermediate,Murderers beware-int.txt
+0.4139,3.8251,1.0698,8.2247,0.2326,1,Intermediate,Nelson Mandela-int.txt
+0.4856,2.1661,1.2667,8.1471,0.2333,1,Intermediate,Nepal-int.txt
+0.4642,1.8226,0.9091,7.8381,0.0364,1,Intermediate,Norwegian sun-int.txt
+0.4721,5.1471,2.0667,7.3913,0.2,1,Intermediate,NSA 2-int.txt
+0.4389,5.9796,1.2857,9.825,0.2571,1,Intermediate,NSA scandal-int.txt
+0.4189,2.9619,1.6286,7.7065,0.0571,1,Intermediate,Obama-int.txt
+0.5095,5.5313,1.3448,10.1029,0.1379,1,Intermediate,Old age-int.txt
+0.4458,3.87,2.0,7.4253,0.1724,1,Intermediate,Organs-int.txt
+0.3966,2.9957,1.6316,7.01,0.1316,1,Intermediate,Pope-int.txt
+0.4048,1.0417,1.6111,7.1489,0.25,1,Intermediate,Prince Harry-int.txt
+0.4949,3.5036,1.8056,6.7822,0.1389,1,Intermediate,Rats-int.txt
+0.4639,2.7883,1.3939,9.9873,0.2121,1,Intermediate,Richard III-int.txt
+0.3796,3.1293,0.8889,10.8088,0.25,1,Intermediate,Royal Baby-int.txt
+0.4632,2.4112,1.093,8.7556,0.093,1,Intermediate,Skydiver-int.txt
+0.4616,2.7397,1.9655,8.4884,0.2759,1,Intermediate,Spain-int.txt
+0.4503,4.3478,1.4375,8.2564,0.1562,1,Intermediate,Starbucks-int.txt
+0.5096,4.7497,0.9362,8.5604,0.1489,1,Intermediate,Superbugs-int.txt
+0.4493,4.9275,1.3784,7.8409,0.2432,1,Intermediate,Swedish prisons-int.txt
+0.5208,4.8322,1.375,7.8421,0.15,1,Intermediate,Syria-int.txt
+0.5284,2.5676,1.0541,9.7368,0.2432,1,Intermediate,Teff-int.txt
+0.4525,3.1637,1.4688,9.2025,0.1562,1,Intermediate,Thatcher-int.txt
+0.434,3.3557,1.1923,7.8421,0.1154,1,Intermediate,US shutdown-int.txt
+0.4714,5.4286,1.3438,9.3333,0.1875,1,Intermediate,Violence-int.txt
+0.388,2.9968,1.871,7.1236,0.2581,1,Intermediate,WNL 101 year old bottle message-int.txt
+0.4797,3.0457,1.2041,7.2963,0.0612,1,Intermediate,WNL A good night sleep-int.txt
+0.4721,3.0303,0.8,11.6111,0.1,1,Intermediate,WNL Apple-int.txt
+0.4405,2.4624,1.0952,8.3068,0.0476,1,Intermediate,WNL Arctic Ramadan-int.txt
+0.5267,5.3455,1.6944,7.9072,0.1667,1,Intermediate,WNL Are MOOCs the future-int.txt
+0.4566,2.2222,1.375,6.5132,0.1562,1,Intermediate,WNL are you a bad boyfriend-int.txt
+0.4717,4.5,2.7727,7.2289,0.4545,1,Intermediate,WNL Bangladesh factory owners-int.txt
+0.4829,3.4188,1.7105,6.8155,0.0526,1,Intermediate,WNL Bangladeshi organization-int.txt
+0.4547,4.3624,2.3571,6.3404,0.1786,1,Intermediate,WNL Barack Obama-int.txt
+0.5017,3.2313,1.4516,7.7368,0.0645,1,Intermediate,WNL Basic phone logs-int.txt
+0.4887,2.8894,1.45,8.1224,0.2,1,Intermediate,WNL Billionaires-int.txt
+0.436,0.8929,0.898,7.2258,0.0612,1,Intermediate,WNL Black Friday-int.txt
+0.5114,3.6419,1.7273,7.3222,0.1818,1,Intermediate,WNL Bogus Allergy-int.txt
+0.4711,3.7685,1.0652,7.8211,0.1304,1,Intermediate,WNL Bright Future-int.txt
+0.4856,3.7464,1.303,9.1316,0.0909,1,Intermediate,WNL Brown bears-int.txt
+0.4598,1.6092,1.8837,7.0161,0.093,1,Intermediate,WNL Calais Migrants-int.txt
+0.4904,2.0382,1.3182,7.6961,0.1136,1,Intermediate,WNL Can the US-int.txt
+0.44,1.92,0.8571,8.0128,0.0714,1,Intermediate,WNL Canadian Pair-int.txt
+0.4504,2.305,1.8214,7.1392,0.1429,1,Intermediate,WNL Castaway-int.txt
+0.4479,3.3123,1.0882,8.9296,0.1765,1,Intermediate,WNL Changing India-int.txt
+0.4272,1.3932,1.5135,6.9462,0.0811,1,Intermediate,WNL Coloring Books-int.txt
+0.4736,2.72,1.303,8.2237,0.3939,1,Intermediate,WNL Criminal Links-int.txt
+0.4689,3.7936,1.1515,9.2817,0.303,1,Intermediate,WNL Cuba-int.txt
+0.3967,2.7424,0.9091,9.7238,0.1636,1,Intermediate,WNL David Bowie-int.txt
+0.4091,2.1944,1.7,7.8765,0.3667,1,Intermediate,WNL David Mitchell-int.txt
+0.4908,2.765,0.8077,9.234,0.0385,1,Intermediate,WNL Drowning in rubbish-int.txt
+0.5191,4.4586,1.3846,10.129,0.2692,1,Intermediate,WNL EU Pollution-int.txt
+0.4319,1.757,1.0217,7.3441,0.087,1,Intermediate,WNL Experience-int.txt
+0.5109,4.0625,2.0,8.2051,0.0769,1,Intermediate,WNL Extinction-int.txt
+0.4549,2.4226,1.4091,7.0094,0.1136,1,Intermediate,WNL Extreme heat-int.txt
+0.4055,3.811,1.3571,9.9394,0.4643,1,Intermediate,WNL FIFA-int.txt
+0.4614,2.2592,2.0,7.188,0.1026,1,Intermediate,WNL Fifth of young adults-int.txt
+0.4242,2.8025,1.2609,7.5481,0.1522,1,Intermediate,WNL First female coach-int.txt
+0.487,3.5461,1.2391,8.2136,0.1522,1,Intermediate,WNL First high resolution images-int.txt
+0.5137,2.3766,1.7931,6.7531,0.1034,1,Intermediate,WNL Five jobs-int.txt
+0.4202,2.9316,1.3667,8.6479,0.3,1,Intermediate,WNL Four new elements-int.txt
+0.5265,4.4586,1.5417,7.7213,0.3333,1,Intermediate,WNL Glastonbury-int.txt
+0.4907,2.9595,0.9167,13.9565,0.0833,1,Intermediate,WNL Goodbye fish and chips-int.txt
+0.4994,3.2342,1.9459,7.0917,0.4054,1,Intermediate,WNL Google boss-int.txt
+0.4733,2.8333,1.3929,8.9552,0.1429,1,Intermediate,WNL Google car-int.txt
+0.4197,2.6761,0.9362,7.8022,0.1277,1,Intermediate,WNL How downtown Abbey-int.txt
+0.4633,3.6741,1.2857,9.7812,0.1429,1,Intermediate,WNL I confused my numbers-int.txt
+0.4309,3.4934,1.2895,7.8966,0.1053,1,Intermediate,WNL Icebucket challenge-int.txt
+0.4113,2.5594,1.56,8.5469,0.28,1,Intermediate,WNL Icelandic names-int.txt
+0.5,2.5522,1.1522,8.7071,0.3696,1,Intermediate,WNL In flight-int.txt
+0.5078,2.5388,1.1622,8.8625,0.1081,1,Intermediate,WNL India's rich-int.txt
+0.4167,2.305,1.1818,7.8333,0.1515,1,Intermediate,WNL Inky the octopus-int.txt
+0.4323,1.7928,1.375,8.807,0.2083,1,Intermediate,WNL Inventions-int.txt
+0.526,3.9792,1.1333,9.0312,0.1667,1,Intermediate,WNL Japan-int.txt
+0.3822,4.2672,1.04,10.5686,0.28,1,Intermediate,WNL JMW Turner-int.txt
+0.4405,2.1341,1.8077,8.9863,0.0769,1,Intermediate,WNL John Lewis-int.txt
+0.4576,4.0377,1.8684,6.8165,0.0526,1,Intermediate,WNL Kate Bush-int.txt
+0.5007,3.1989,1.5135,7.7312,0.1892,1,Intermediate,WNL Kiruna-int.txt
+0.4472,1.8634,1.5,9.2,0.1429,1,Intermediate,WNL Lego movie-int.txt
+0.4918,4.6575,1.7353,7.8495,0.0588,1,Intermediate,WNL Loneliness-int.txt
+0.507,6.2208,1.6562,7.5647,0.1562,1,Intermediate,WNL Love hormonw-int.txt
+0.453,2.7919,1.1429,10.5067,0.1143,1,Intermediate,WNL Making a killing-int.txt
+0.4683,2.7778,2.1143,6.9358,0.2,1,Intermediate,WNL Man falls-int.txt
+0.4152,4.1522,1.931,6.8,0.1724,1,Intermediate,WNL Mars-int.txt
+0.4537,3.5366,1.6809,6.5079,0.1064,1,Intermediate,WNL Men in black-int.txt
+0.4945,4.7945,1.0732,8.5882,0.1463,1,Intermediate,WNL Mirrors-int.txt
+0.4691,2.9004,1.1795,9.3294,0.2308,1,Intermediate,WNL Morocco-int.txt
+0.4478,3.7123,0.9,11.3421,0.0,1,Intermediate,WNL Music-int.txt
+0.4721,3.0916,1.5952,7.7156,0.1667,1,Intermediate,WNL Mystery Shopper-int.txt
+0.4823,3.6709,2.3243,6.4228,0.027,1,Intermediate,WNL NASA Astronaut-int.txt
+0.5025,2.875,1.1333,8.3333,0.2222,1,Intermediate,WNL Neuroscientists-int.txt
+0.4821,4.0369,1.8085,6.5682,0.0851,1,Intermediate,WNL New Orleans-int.txt
+0.5253,2.5316,1.12,8.9434,0.2,1,Intermediate,WNL Nigerian low tech-int.txt
+0.4914,3.5817,2.1667,7.3474,0.3,1,Intermediate,WNL Noise pollution -int.txt
+0.4441,2.3743,1.3261,6.6916,0.0435,1,Intermediate,WNL Novel way-int.txt
+0.4967,3.3843,0.6377,8.1062,0.087,1,Intermediate,WNL On the trail-int.txt
+0.5274,3.3141,1.3143,8.5679,0.2,1,Intermediate,WNL Organic Food-int.txt
+0.4225,4.3928,1.1136,8.3226,0.0682,1,Intermediate,WNL Pacific Islanders-int.txt
+0.4392,1.3986,1.45,7.2959,0.225,1,Intermediate,WNL Pizza chain-int.txt
+0.5181,3.0479,2.0,7.6556,0.3667,1,Intermediate,WNL Planet-int.txt
+0.5007,2.4772,1.9355,8.4286,0.1613,1,Intermediate,WNL Poverty-int.txt
+0.4723,1.61,1.5833,6.0108,0.1389,1,Intermediate,WNL Revolution-int.txt
+0.4793,3.3794,1.1081,8.3462,0.2162,1,Intermediate,WNL Rwanda-int.txt
+0.4864,3.7288,1.6897,7.5641,0.1379,1,Intermediate,WNL Satnav-int.txt
+0.44,3.2381,1.6452,6.4024,0.2258,1,Intermediate,WNL Scarlett-int.txt
+0.4882,4.4379,2.44,7.8605,0.24,1,Intermediate,WNL School Sports-int.txt
+0.486,2.8011,1.7742,8.3023,0.129,1,Intermediate,WNL School-int.txt
+0.4884,2.029,1.4194,9.2,0.0323,1,Intermediate,WNL Scientist-int.txt
+0.4062,3.2134,1.2368,9.1529,0.1316,1,Intermediate,WNL Scottish referendum-int.txt
+0.4637,4.0076,1.8333,7.7059,0.0833,1,Intermediate,WNL SeaWorld-int.txt
+0.4078,1.8843,1.1515,10.4648,0.2424,1,Intermediate,WNL Shakespeare-int.txt
+0.4387,2.7231,2.1724,7.1848,0.1034,1,Intermediate,WNL shark-int.txt
+0.5295,2.2472,1.6471,7.9111,0.2059,1,Intermediate,WNL Ships noise-int.txt
+0.4878,2.5932,1.7353,6.6344,0.2647,1,Intermediate,WNL Shocking-int.txt
+0.4735,3.0968,1.5349,7.1101,0.0465,1,Intermediate,WNL Shops-int.txt
+0.5482,4.6398,1.2857,8.5312,0.0714,1,Intermediate,WNL six well paid jobs-int.txt
+0.5355,4.6296,1.25,10.2857,0.0714,1,Intermediate,WNL Six year olds-int.txt
+0.4453,3.1809,1.2,7.6212,0.1,1,Intermediate,WNL Spain Robin Hood-int.txt
+0.4839,1.8018,0.9149,8.6333,0.1489,1,Intermediate,WNL Spain Wetlands-int.txt
+0.4105,2.2039,1.25,8.963,0.1111,1,Intermediate,WNL Star Wars-int.txt
+0.5549,5.8603,1.7188,9.2184,0.0625,1,Intermediate,WNL Still no flying cars-int.txt
+0.5078,2.6087,1.5926,8.2143,0.1111,1,Intermediate,WNL Swarthy caveman-int.txt
+0.3952,2.7149,1.2895,7.6207,0.2105,1,Intermediate,WNL Switched Babies-int.txt
+0.5583,4.375,0.8125,8.2759,0.0312,1,Intermediate,WNL Ten ideas-int.txt
+0.4375,2.8846,1.3939,7.8987,0.1212,1,Intermediate,WNL The age of music-int.txt
+0.4793,2.6283,1.8529,8.2371,0.1765,1,Intermediate,WNL The Greek island-int.txt
+0.4577,3.3088,0.5946,9.2203,0.2162,1,Intermediate,WNL The last-int.txt
+0.4684,3.3661,1.7778,7.13,0.1667,1,Intermediate,WNL The lightweight-int.txt
+0.433,0.9569,1.4468,7.2696,0.0213,1,Intermediate,WNL The millenials-int.txt
+0.3976,2.6829,0.9231,10.9333,0.1795,1,Intermediate,WNL Tributes-int.txt
+0.491,3.5961,2.0909,7.0882,0.0909,1,Intermediate,WNL Use of e-cig-int.txt
+0.4569,4.2408,1.0,9.8784,0.0811,1,Intermediate,WNL Vienna-int.txt
+0.4757,2.6549,1.4706,7.1746,0.1961,1,Intermediate,WNL Waiters-int.txt
+0.464,1.877,1.451,7.672,0.0784,1,Intermediate,WNL Ways Facebook changed-int.txt
+0.486,2.3743,1.5294,8.3256,0.3529,1,Intermediate,WNL We must-int.txt
+0.4215,1.8541,1.6444,6.7983,0.0667,1,Intermediate,WNL Wealth therapy-int.txt
+0.4444,3.2099,1.0816,7.9412,0.0408,1,Intermediate,WNL What does Apple-int.txt
+0.4824,3.9012,1.3939,9.7342,0.2121,1,Intermediate,WNL What is world's-int.txt
+0.4898,3.6835,1.3256,7.33,0.1395,1,Intermediate,WNL What's the secret-int.txt
+0.4344,3.4121,1.7805,6.6842,0.1463,1,Intermediate,WNL Who can stop Trump-int.txt
+0.4018,2.584,1.4359,8.1474,0.1538,1,Intermediate,WNL Who invented-int.txt
+0.4557,2.4883,1.6129,7.9383,0.0968,1,Intermediate,WNL Why are people so wrong-int.txt
+0.5503,2.9982,1.7857,7.2692,0.1429,1,Intermediate,WNL Why we should -int.txt
+0.4614,1.9704,1.3429,7.4268,0.0571,1,Intermediate,WNL Why you should start work at 10-int.txt
+0.4805,2.9004,2.0256,6.7203,0.1026,1,Intermediate,WNL Will drones-int.txt
+0.4584,1.6883,1.7105,7.4757,0.0263,1,Intermediate,WNL Winter-int.txt
+0.4529,2.6723,0.975,9.0,0.1,1,Intermediate,WNL World Cup-int.txt
+0.4614,1.4458,1.475,8.3838,0.15,1,Intermediate,WNL Young Americans-int.txt
+0.4862,2.6074,1.8462,8.8108,0.2692,1,Intermediate,Zero Hours-int.txt
+0.4738,4.2925,1.3043,11.8679,0.3913,2,Advanced,Amazon-adv.txt
+0.4759,5.4825,2.0,8.0,0.4211,2,Advanced,Amsterdam-adv.txt
+0.4749,4.3933,1.3542,8.4602,0.125,2,Advanced,Anita-adv.txt
+0.4705,2.2113,2.2593,9.25,0.2593,2,Advanced,Arctic mapping-adv.txt
+0.4059,3.4351,2.2759,8.2737,0.2414,2,Advanced,Banksy-adv.txt
+0.4875,3.6606,1.8333,8.8382,0.2083,2,Advanced,Billionaires-adv.txt
+0.4517,3.3229,1.0,8.9167,0.1296,2,Advanced,Blackberry-adv.txt
+0.4384,5.6763,1.6875,9.6279,0.25,2,Advanced,Bolivia-adv.txt
+0.494,3.6254,2.1818,9.4571,0.2273,2,Advanced,Bonus pay-adv.txt
+0.4972,3.3822,1.4615,9.2396,0.2308,2,Advanced,Brazil-adv.txt
+0.4966,4.2641,2.8,7.6526,0.24,2,Advanced,Cigarettes-adv.txt
+0.5488,1.9231,1.4333,9.2603,0.1667,2,Advanced,climate change -adv.txt
+0.5248,5.8309,1.56,10.7188,0.36,2,Advanced,Coal to challenge oil-adv.txt
+0.4483,3.8333,2.3478,7.7922,0.3478,2,Advanced,Copyright-adv.txt
+0.4418,4.2225,1.8462,8.7477,0.2564,2,Advanced,Crowdfunding-adv.txt
+0.4582,1.7028,2.0,6.9462,0.129,2,Advanced,Denmark-adv.txt
+0.464,3.8136,1.0,8.9057,0.1698,2,Advanced,Everest-adv.txt
+0.4756,3.1419,1.4884,8.6262,0.093,2,Advanced,Exercise-adv.txt
+0.4607,2.4828,1.1765,9.7973,0.1471,2,Advanced,Facebook deserted by millions of users-adv.txt
+0.5276,2.2638,1.8444,7.9375,0.3556,2,Advanced,False memory-adv.txt
+0.415,4.2008,1.5333,8.5614,0.1111,2,Advanced,Ferguson-adv.txt
+0.4556,1.3018,1.6087,7.0417,0.087,2,Advanced,Fitness-adv.txt
+0.5173,4.0111,2.04,9.5132,0.2,2,Advanced,Food shortages-adv.txt
+0.4856,2.5962,1.3188,6.5,0.2754,2,Advanced,Gangs-adv.txt
+0.4673,4.7739,1.1951,8.8444,0.0976,2,Advanced,Gorillas and oil-adv.txt
+0.4858,3.1991,1.641,8.1942,0.0769,2,Advanced,Greeks and drugs-adv.txt
+0.4425,2.9234,2.2941,8.8571,0.3824,2,Advanced,Hillsborough-adv.txt
+0.4839,2.9703,1.1143,10.9189,0.2286,2,Advanced,Insects-adv.txt
+0.5318,4.1199,2.2188,7.7767,0.25,2,Advanced,Japan menu-adv.txt
+0.4107,2.3209,1.0606,7.2868,0.1364,2,Advanced,Japan-adv.txt
+0.457,3.3461,1.4906,7.9242,0.0943,2,Advanced,Kashmir-adv.txt
+0.455,3.7538,2.0,8.5385,0.4231,2,Advanced,Kate and William-adv.txt
+0.4498,4.0888,2.0625,8.7347,0.3125,2,Advanced,Kenya-adv.txt
+0.452,3.0,1.6667,8.3333,0.1333,2,Advanced,Liberia-adv.txt
+0.4683,4.195,1.7105,8.5631,0.2632,2,Advanced,Lie detector-adv.txt
+0.4256,3.2295,1.4737,9.2234,0.1579,2,Advanced,Life expectancy-adv.txt
+0.4278,4.7767,2.1463,7.4651,0.2195,2,Advanced,Life on Mars-adv.txt
+0.4577,2.8192,0.7586,11.8235,0.1379,2,Advanced,Loterry-adv.txt
+0.42,3.5,1.5789,8.1633,0.1053,2,Advanced,Malala-adv.txt
+0.4769,3.7179,1.0526,10.0,0.2895,2,Advanced,Meteorite-adv.txt
+0.4771,4.1429,1.4839,9.0909,0.1613,2,Advanced,Midlife crisis-adv.txt
+0.4892,3.2407,2.16,8.2025,0.36,2,Advanced,Murderers beware-adv.txt
+0.4148,3.5934,1.26,8.6195,0.2,2,Advanced,Nelson Mandela-adv.txt
+0.4931,2.4306,1.4286,8.4706,0.2143,2,Advanced,Nepal-adv.txt
+0.479,2.3061,1.0175,8.2957,0.0351,2,Advanced,Norwegian sun-adv.txt
+0.4688,5.1852,2.1081,8.2174,0.1351,2,Advanced,NSA 2-adv.txt
+0.463,6.5693,1.5366,9.2212,0.2927,2,Advanced,NSA scandal-adv.txt
+0.4283,3.5605,1.7442,8.3305,0.1163,2,Advanced,Obama-adv.txt
+0.5037,5.6235,1.5152,9.8554,0.1818,2,Advanced,Old age-adv.txt
+0.4533,4.0404,1.8056,7.8416,0.1944,2,Advanced,Organs-adv.txt
+0.3852,2.8571,2.0952,7.2692,0.1905,2,Advanced,Pope-adv.txt
+0.4162,0.9122,1.8333,7.3697,0.2619,2,Advanced,Prince Harry-adv.txt
+0.4849,3.7088,1.8,7.4286,0.2,2,Advanced,Rats-adv.txt
+0.4638,3.1056,2.0,9.7576,0.3333,2,Advanced,Richard III-adv.txt
+0.3942,2.9046,1.2857,10.0417,0.3333,2,Advanced,Royal Baby-adv.txt
+0.4617,2.4134,1.6364,8.2155,0.1364,2,Advanced,Skydiver-adv.txt
+0.4674,2.9155,2.1579,8.575,0.2632,2,Advanced,Spain-adv.txt
+0.4587,4.5872,1.6129,9.4198,0.0645,2,Advanced,Starbucks-adv.txt
+0.5104,5.6707,1.0566,8.4128,0.1698,2,Advanced,Superbugs-adv.txt
+0.4605,5.0811,1.7045,7.7731,0.3409,2,Advanced,Swedish prisons-adv.txt
+0.518,4.3919,1.5714,8.2222,0.2143,2,Advanced,Syria-adv.txt
+0.52,3.0591,1.2273,9.6735,0.0909,2,Advanced,Teff-adv.txt
+0.4609,3.4676,1.7273,9.9333,0.1515,2,Advanced,Thatcher-adv.txt
+0.4532,3.01,1.7692,8.3056,0.1538,2,Advanced,US shutdown-adv.txt
+0.4823,5.6356,1.4545,9.4198,0.1818,2,Advanced,Violence-adv.txt
+0.3809,3.1348,1.8065,7.3333,0.2903,2,Advanced,WNL 101 year old bottle message-adv.txt
+0.4803,3.044,1.5652,7.5169,0.1087,2,Advanced,WNL A good night sleep-adv.txt
+0.4816,3.5526,1.1613,11.3433,0.1613,2,Advanced,WNL Apple-adv.txt
+0.4395,3.0508,1.6667,7.9018,0.0952,2,Advanced,WNL Arctic Ramadan-adv.txt
+0.5126,5.4393,2.2973,7.8361,0.2703,2,Advanced,WNL Are MOOCs the future-adv.txt
+0.4706,2.4221,1.4167,6.6437,0.1111,2,Advanced,WNL are you a bad boyfriend-adv.txt
+0.4674,4.7695,3.1429,7.2299,0.4762,2,Advanced,WNL Bangladesh factory owners-adv.txt
+0.4933,3.8977,1.4773,7.5321,0.1364,2,Advanced,WNL Bangladeshi organization-adv.txt
+0.4479,4.3758,2.5312,6.8761,0.1562,2,Advanced,WNL Barack Obama-adv.txt
+0.5065,3.4858,1.6585,8.422,0.2439,2,Advanced,WNL Basic phone logs-adv.txt
+0.4883,2.7579,1.4783,8.5877,0.2609,2,Advanced,WNL Billionaires-adv.txt
+0.4203,0.9223,1.2174,7.4412,0.1087,2,Advanced,WNL Black Friday-adv.txt
+0.5035,4.5643,2.3214,7.7742,0.25,2,Advanced,WNL Bogus Allergy-adv.txt
+0.4419,3.6077,1.1731,7.8496,0.1154,2,Advanced,WNL Bright Future-adv.txt
+0.4799,4.4118,1.8214,9.4684,0.25,2,Advanced,WNL Brown bears-adv.txt
+0.4625,1.6895,2.2632,7.6371,0.2105,2,Advanced,WNL Calais Migrants-adv.txt
+0.4877,2.2412,1.2453,7.8739,0.1132,2,Advanced,WNL Can the US-adv.txt
+0.4334,1.7751,1.15,7.8605,0.05,2,Advanced,WNL Canadian Pair-adv.txt
+0.4548,2.5522,1.8158,8.0561,0.2895,2,Advanced,WNL Castaway-adv.txt
+0.4668,3.4574,1.2059,10.0267,0.2353,2,Advanced,WNL Changing India-adv.txt
+0.4353,1.6497,1.6579,7.802,0.1316,2,Advanced,WNL Coloring Books-adv.txt
+0.4707,4.4423,1.4468,9.2,0.234,2,Advanced,WNL Criminal Links-adv.txt
+0.4639,3.7572,1.2581,9.8857,0.3226,2,Advanced,WNL Cuba-adv.txt
+0.4137,3.1379,1.0862,10.0083,0.1552,2,Advanced,WNL David Bowie-adv.txt
+0.4139,2.3224,2.1852,8.5116,0.4444,2,Advanced,WNL David Mitchell-adv.txt
+0.4875,5.3292,1.0,9.3824,0.1765,2,Advanced,WNL Drowning in rubbish-adv.txt
+0.5223,4.8267,1.75,10.4935,0.2857,2,Advanced,WNL EU Pollution-adv.txt
+0.442,1.752,1.234,7.0667,0.0426,2,Advanced,WNL Experience-adv.txt
+0.5021,4.4755,2.1852,8.314,0.0741,2,Advanced,WNL Extinction-adv.txt
+0.4672,2.5164,1.8696,6.9242,0.1739,2,Advanced,WNL Extreme heat-adv.txt
+0.4063,3.4301,1.5,10.1067,0.4667,2,Advanced,WNL FIFA-adv.txt
+0.4669,2.4048,2.2093,7.2319,0.186,2,Advanced,WNL Fifth of young adults-adv.txt
+0.4114,2.3422,1.4118,7.9837,0.1765,2,Advanced,WNL First female coach-adv.txt
+0.4914,3.6122,1.5417,8.623,0.1875,2,Advanced,WNL First high resolution images-adv.txt
+0.5122,2.5788,2.0455,6.9453,0.1515,2,Advanced,WNL Five jobs-adv.txt
+0.4319,3.75,1.6452,8.7805,0.4194,2,Advanced,WNL Four new elements-adv.txt
+0.5096,3.6649,1.9545,8.8154,0.4091,2,Advanced,WNL Glastonbury-adv.txt
+0.4888,3.1537,1.3043,14.3585,0.1739,2,Advanced,WNL Goodbye fish and chips-adv.txt
+0.4933,3.4521,2.1714,8.0901,0.4286,2,Advanced,WNL Google boss-adv.txt
+0.4621,2.2636,1.4118,9.1585,0.1471,2,Advanced,WNL Google car-adv.txt
+0.4327,2.9197,1.0175,8.3391,0.1228,2,Advanced,WNL How downtown Abbey-adv.txt
+0.4793,3.533,1.875,9.4348,0.375,2,Advanced,WNL I confused my numbers-adv.txt
+0.4416,3.528,1.4,8.5625,0.15,2,Advanced,WNL Icebucket challenge-adv.txt
+0.4081,2.627,1.6,8.7846,0.24,2,Advanced,WNL Icelandic names-adv.txt
+0.503,2.8887,1.0857,8.0616,0.2857,2,Advanced,WNL In flight-adv.txt
+0.5026,2.8721,1.2703,9.119,0.0811,2,Advanced,WNL India's rich-adv.txt
+0.4134,1.9608,1.2812,8.3836,0.25,2,Advanced,WNL Inky the octopus-adv.txt
+0.4359,2.2945,1.5417,8.5738,0.1667,2,Advanced,WNL Inventions-adv.txt
+0.524,4.3668,1.6071,9.411,0.2143,2,Advanced,WNL Japan-adv.txt
+0.4275,4.2553,1.6316,10.34,0.3158,2,Advanced,WNL JMW Turner-adv.txt
+0.4457,1.9837,2.0645,9.0211,0.0645,2,Advanced,WNL John Lewis-adv.txt
+0.4499,3.372,1.8636,7.5317,0.0455,2,Advanced,WNL Kate Bush-adv.txt
+0.5086,4.5259,2.1389,8.2124,0.25,2,Advanced,WNL Kiruna-adv.txt
+0.446,2.2161,2.0909,10.6176,0.1818,2,Advanced,WNL Lego movie-adv.txt
+0.4898,3.9877,1.9762,7.824,0.0952,2,Advanced,WNL Loneliness-adv.txt
+0.5048,6.2241,2.0645,7.6105,0.2258,2,Advanced,WNL Love hormonw-adv.txt
+0.4424,3.0384,1.4286,10.9706,0.1905,2,Advanced,WNL Making a killing-adv.txt
+0.466,2.6539,2.1951,7.1908,0.1951,2,Advanced,WNL Man falls-adv.txt
+0.444,4.7026,2.3704,7.9451,0.1852,2,Advanced,WNL Mars-adv.txt
+0.4473,3.854,1.8491,6.5298,0.0755,2,Advanced,WNL Men in black-adv.txt
+0.5156,5.0204,1.2105,8.7738,0.1579,2,Advanced,WNL Mirrors-adv.txt
+0.4744,3.6752,1.5577,8.797,0.3077,2,Advanced,WNL Morocco-adv.txt
+0.4567,3.3465,1.4737,10.8085,0.0526,2,Advanced,WNL Music-adv.txt
+0.466,3.3488,1.9574,7.7338,0.1702,2,Advanced,WNL Mystery Shopper-adv.txt
+0.4775,3.681,2.7317,6.3922,0.0244,2,Advanced,WNL NASA Astronaut-adv.txt
+0.5083,1.9934,1.413,8.1351,0.2826,2,Advanced,WNL Neuroscientists-adv.txt
+0.4672,4.3768,1.9804,6.9145,0.0784,2,Advanced,WNL New Orleans-adv.txt
+0.537,3.2258,1.4545,9.7593,0.2727,2,Advanced,WNL Nigerian low tech-adv.txt
+0.4854,3.8023,2.4,7.7353,0.2667,2,Advanced,WNL Noise pollution -adv.txt
+0.444,2.6718,1.5,6.8348,0.0435,2,Advanced,WNL Novel way-adv.txt
+0.4892,4.7016,0.7284,7.9,0.0988,2,Advanced,WNL On the trail-adv.txt
+0.5291,3.8769,1.4524,8.5146,0.2619,2,Advanced,WNL Organic Food-adv.txt
+0.4425,3.9674,1.4222,9.0183,0.1333,2,Advanced,WNL Pacific Islanders-adv.txt
+0.434,1.4379,1.7647,8.1383,0.2647,2,Advanced,WNL Pizza chain-adv.txt
+0.5183,3.2564,2.5,8.0989,0.3846,2,Advanced,WNL Planet-adv.txt
+0.5177,4.0268,1.9024,8.7647,0.1707,2,Advanced,WNL Poverty-adv.txt
+0.4547,1.6345,1.5122,6.534,0.122,2,Advanced,WNL Revolution-adv.txt
+0.4743,2.8186,1.2609,7.8462,0.2826,2,Advanced,WNL Rwanda-adv.txt
+0.4915,3.8521,2.2222,7.4598,0.2593,2,Advanced,WNL Satnav-adv.txt
+0.4227,3.5346,1.6316,6.79,0.2368,2,Advanced,WNL Scarlett-adv.txt
+0.4918,4.0872,2.5385,7.9783,0.2308,2,Advanced,WNL School Sports-adv.txt
+0.474,2.4142,1.9375,8.3723,0.1875,2,Advanced,WNL School-adv.txt
+0.4949,2.5253,1.9,9.1034,0.0667,2,Advanced,WNL Scientist-adv.txt
+0.4127,3.3405,1.641,9.0097,0.2051,2,Advanced,WNL Scottish referendum-adv.txt
+0.4779,4.2517,2.6316,8.5217,0.1579,2,Advanced,WNL SeaWorld-adv.txt
+0.402,1.6704,1.4848,10.9512,0.2424,2,Advanced,WNL Shakespeare-adv.txt
+0.4301,1.8634,1.9667,7.236,0.1333,2,Advanced,WNL shark-adv.txt
+0.5327,2.1362,1.7059,8.1413,0.2353,2,Advanced,WNL Ships noise-adv.txt
+0.4874,2.6588,1.9706,6.703,0.2941,2,Advanced,WNL Shocking-adv.txt
+0.4804,3.0392,1.72,7.5,0.1,2,Advanced,WNL Shops-adv.txt
+0.5353,4.9669,1.4186,8.7115,0.093,2,Advanced,WNL six well paid jobs-adv.txt
+0.5221,4.2998,1.2121,11.1507,0.1212,2,Advanced,WNL Six year olds-adv.txt
+0.4587,4.2857,1.5,7.0,0.0833,2,Advanced,WNL Spain Robin Hood-adv.txt
+0.4845,2.8155,1.2407,8.5124,0.2593,2,Advanced,WNL Spain Wetlands-adv.txt
+0.4352,3.3223,1.9032,10.0333,0.2258,2,Advanced,WNL Star Wars-adv.txt
+0.5431,5.0,2.4412,8.7179,0.1176,2,Advanced,WNL Still no flying cars-adv.txt
+0.5189,3.1081,1.8485,7.8723,0.1212,2,Advanced,WNL Swarthy caveman-adv.txt
+0.4061,2.6455,1.3636,7.2692,0.1818,2,Advanced,WNL Switched Babies-adv.txt
+0.5346,3.9297,0.8036,9.5743,0.1607,2,Advanced,WNL Ten ideas-adv.txt
+0.4569,3.0377,1.6053,8.3131,0.1579,2,Advanced,WNL The age of music-adv.txt
+0.4975,2.8197,2.4474,7.5802,0.1842,2,Advanced,WNL The Greek island-adv.txt
+0.4679,2.4064,1.0,9.35,0.225,2,Advanced,WNL The last-adv.txt
+0.468,2.4691,2.075,7.2439,0.25,2,Advanced,WNL The lightweight-adv.txt
+0.4423,0.939,1.6346,7.7737,0.0192,2,Advanced,WNL The millenials-adv.txt
+0.4819,3.7565,2.0909,7.5686,0.1212,2,Advanced,WNL Tributes-adv.txt
+0.3908,2.5922,1.4146,10.1313,0.2683,2,Advanced,WNL Use of e-cig-adv.txt
+0.4577,4.6911,1.125,10.2824,0.125,2,Advanced,WNL Vienna-adv.txt
+0.4775,2.7634,1.7414,7.283,0.3276,2,Advanced,WNL Waiters-adv.txt
+0.4698,2.5397,1.55,8.2353,0.1167,2,Advanced,WNL Ways Facebook changed-adv.txt
+0.4872,2.6721,1.5641,9.73,0.4359,2,Advanced,WNL We must-adv.txt
+0.4149,1.4099,1.5273,7.1439,0.0545,2,Advanced,WNL Wealth therapy-adv.txt
+0.4591,2.7607,1.3061,8.6549,0.102,2,Advanced,WNL What does Apple-adv.txt
+0.4995,4.7354,1.6364,9.2845,0.2727,2,Advanced,WNL What is world's-adv.txt
+0.513,3.1385,1.7447,7.1628,0.1915,2,Advanced,WNL What's the secret-adv.txt
+0.4578,3.9095,2.0652,6.8936,0.1522,2,Advanced,WNL Who can stop Trump-adv.txt
+0.4197,2.3901,1.8261,8.0462,0.2174,2,Advanced,WNL Who invented-adv.txt
+0.4658,3.1421,1.8438,8.044,0.125,2,Advanced,WNL Why are people so wrong-adv.txt
+0.5601,2.8007,2.2083,7.8831,0.25,2,Advanced,WNL Why we should -adv.txt
+0.4656,1.7188,1.4706,7.619,0.1176,2,Advanced,WNL Why you should start work at 10-adv.txt
+0.4827,2.9532,2.0682,7.2741,0.1364,2,Advanced,WNL Will drones-adv.txt
+0.4609,1.8107,2.04,7.9934,0.18,2,Advanced,WNL Winter-adv.txt
+0.4497,2.7329,1.25,8.9444,0.125,2,Advanced,WNL World Cup-adv.txt
+0.4638,1.3903,1.6957,8.121,0.2391,2,Advanced,WNL Young Americans-adv.txt
+0.4896,3.663,2.2593,9.3068,0.2222,2,Advanced,Zero Hours-adv.txt
