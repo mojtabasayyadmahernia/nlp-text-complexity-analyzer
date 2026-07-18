@@ -1,0 +1,13 @@
+2026-07-14 20:18:01 - --- Session started ---
+2026-07-14 20:18:22 - Threshold changed to 2s
+2026-07-14 20:18:32 - Pause detected at word_boundary (threshold: 2s)
+2026-07-14 20:18:35 - Writing resumed (paused for 3.0s)
+2026-07-14 20:18:38 - Pause detected at phrase_boundary (threshold: 2s)
+2026-07-14 20:18:43 - Writing resumed (paused for 4.7s)
+2026-07-14 20:18:47 - Pause detected at mid_word (threshold: 2s)
+2026-07-14 20:18:50 - Writing resumed (paused for 2.9s)
+2026-07-14 20:18:52 - Pause detected at mid_word (threshold: 2s)
+2026-07-14 20:18:55 - Writing resumed (paused for 2.8s)
+2026-07-14 20:18:58 - Pause detected at mid_word (threshold: 2s)
+2026-07-14 20:19:03 - Writing resumed (paused for 5.1s)
+2026-07-14 20:19:05 - Pause detected at word_boundary (threshold: 2s)

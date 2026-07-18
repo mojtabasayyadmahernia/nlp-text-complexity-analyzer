@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+boto3
+spacy
+scikit-learn
+pandas
+numpy
+joblib
+# After installing requirements, also run:
+# python -m spacy download en_core_web_sm
