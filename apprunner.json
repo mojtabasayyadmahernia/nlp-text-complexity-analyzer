@@ -1,0 +1,32 @@
+{
+    "ServiceName": "nlp-complexity-analyzer",
+    "SourceConfiguration": {
+      "ImageRepository": {
+        "ImageIdentifier": "772908587730.dkr.ecr.eu-north-1.amazonaws.com/nlp-complexity-analyzer:v1",
+        "ImageConfiguration": {
+          "Port": "8000",
+          "RuntimeEnvironmentVariables": {
+            "AWS_DEFAULT_REGION": "eu-north-1"
+          }
+        },
+        "ImageRepositoryType": "ECR"
+      },
+      "AutoDeploymentsEnabled": false,
+      "AuthenticationConfiguration": {
+        "AccessRoleArn": "arn:aws:iam::772908587730:role/AppRunnerNLPRole"
+      }
+    },
+    "InstanceConfiguration": {
+      "Cpu": "1 vCPU",
+      "Memory": "2 GB",
+      "InstanceRoleArn": "arn:aws:iam::772908587730:role/AppRunnerNLPRole"
+    },
+    "HealthCheckConfiguration": {
+      "Protocol": "HTTP",
+      "Path": "/",
+      "Interval": 10,
+      "Timeout": 5,
+      "HealthyThreshold": 1,
+      "UnhealthyThreshold": 5
+    }
+  }
